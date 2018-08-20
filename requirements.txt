@@ -1,12 +1,11 @@
 scrapy
 scrapyd
-scrapy-heroku
 scrapyd-client
 scrapy_jsonrpc
 scrapy_mysql_pipeline
 scrapy-rotating-proxies
 scrapy_proxies
-scrapy-fake-useragent
+
 
 
 
